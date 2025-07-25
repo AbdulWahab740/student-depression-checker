@@ -1,4 +1,4 @@
-
+**Live Link:** ["Live Demo on Hugging Face Space"](https://huggingface.co/spaces/AbdulWahab70/student-depression)
 # 🧠 Student Depression Checker
 
 This is a **Streamlit-based web app** that predicts the risk of student depression using a trained **Logistic Regression model**. It considers several academic and lifestyle features such as CGPA, academic pressure, sleep, diet, financial stress, and more.
